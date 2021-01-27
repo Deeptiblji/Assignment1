@@ -54,6 +54,9 @@ namespace Assignment1.Program1.easy
                         break;
 
                     case 2:
+                        Console.WriteLine("The currect size of the collection is "+names.Capacity);
+                        names.TrimToSize();
+                        Console.WriteLine("The size after removing the extra space is " + names.Capacity);
                         Console.WriteLine("Do you want to continue? y or n..");
                         tocont = Console.ReadLine();
                         break;
