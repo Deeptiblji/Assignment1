@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfo.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\netcoreapp3.1\Assignment1.deps.json" />
+    <Content Include="bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.dev.json" />
+    <Content Include="bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.json" />
+    <Content Include="obj\Assignment1.csproj.nuget.dgspec.json" />
+    <Content Include="obj\Debug\netcoreapp3.1\Assignment1.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\project.assets.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\netcoreapp3.1\Assignment1.dll" />
+    <None Include="bin\Debug\netcoreapp3.1\Assignment1.exe" />
+    <None Include="bin\Debug\netcoreapp3.1\Assignment1.pdb" />
+    <None Include="obj\Assignment1.csproj.nuget.g.props" />
+    <None Include="obj\Assignment1.csproj.nuget.g.targets" />
+    <None Include="obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\netcoreapp3.1\Assignment1.assets.cache" />
+    <None Include="obj\Debug\netcoreapp3.1\Assignment1.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\netcoreapp3.1\Assignment1.csprojAssemblyReference.cache" />
+    <None Include="obj\Debug\netcoreapp3.1\Assignment1.dll" />
+    <None Include="obj\Debug\netcoreapp3.1\Assignment1.exe" />
+    <None Include="obj\Debug\netcoreapp3.1\Assignment1.genruntimeconfig.cache" />
+    <None Include="obj\Debug\netcoreapp3.1\Assignment1.pdb" />
+    <None Include="obj\project.nuget.cache" />
+  </ItemGroup>
+
+</Project>
